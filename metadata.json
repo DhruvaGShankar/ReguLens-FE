@@ -1,0 +1,6 @@
+{
+  "name": "ReguLens — SEBI Regulatory Research Assistant",
+  "description": "Institutional legal-tech research assistant for SEBI circulars, master circulars, and securities regulations with verified statutory citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
